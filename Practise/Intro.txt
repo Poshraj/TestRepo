@@ -1,2 +1,4 @@
 This is comment1
 Added a second comment
+
+This is only in branch1
